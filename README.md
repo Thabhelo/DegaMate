@@ -70,7 +70,3 @@ Welcome to **DegaMate**, your ultimate companion for navigating around the **Tal
 <img width="291" alt="Screenshot 2024-02-12 at 5 51 44 AM" src="https://github.com/Thabhelo/DegaMate/assets/50872400/02a5567c-1903-4dc7-a5bf-405da18dca57">
 <img width="291" alt="Screenshot 2024-02-12 at 5 52 03 AM" src="https://github.com/Thabhelo/DegaMate/assets/50872400/d5d1cd77-f6ab-41dd-9371-566182b74f15">
 
-## Community
-Lets all join our [discord](https://discord.com/channels/1198039252479508582/1198039252479508585) community! Feel free to ask questions, share ideas, collaborate with others, and lets keep it active!
-
-Yours in code.
