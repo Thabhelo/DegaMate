@@ -43,17 +43,6 @@ Welcome to **DegaMate**, your ultimate companion for navigating around the **Tal
     ```bash
     git checkout -b feature/my-awesome-contribution
     ```
-    
-4. **Make Your Contribution:**
-  - Add and Implement new features, fix bugs, or improve existing functionality.
-  - A reminder to please follow Swift best practices and maintain code quality.
-  - Also test if your code is correct before pushing it to git.
-  - Write clean, readable, and well-documented code.
-  - Use descriptive commit messages that explain the purpose of your changes,
-    For example: ```git commit -m "I added an interactive radiating circle to tap for automatic emergency police dialing"```
-  - Reference any related issues or pull requests.
-For documentation, please do update the README if your contribution introduces new features or changes existing ones, remember to provide clear instructions for users and contributors.
-  - We anticipate to add all the beautiful features that we discussed in the meetings.
 
 5. **Build and Run:**
    - Select your target device (simulator or physical device) from the top-left dropdown in Xcode.
